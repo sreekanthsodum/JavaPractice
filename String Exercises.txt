@@ -1,0 +1,16 @@
+String exercise:
+1. Length of a given string - Completed
+2. Count number of words in a given string - Completed.
+3. Total number of occurances of a given char - Completed.
+4. Reverse a string -
+5. Remove all starting and ending spaces of a string - .
+6. Reverse each word of a given string - 
+7. Even words - Cpacs, odd words in reverse pattern ( This is test --> THIS si TEST )
+8. Uppercase letters , lowercase letters and Special chars and digits. 
+9. First repeated char and the first non-repeated char( java is easy - a and j )
+10. Create an array using the words in even position of a string( Java is easy to  - [java, easy]
+11. Max length string, if two strings then the first word.
+12. Compare two strings, if the char matches, then print, if not then - ( sreekanth , sreejan --> sree+a+n++ )
+13. Given the first name and last name, Print last name first and . first letter of the first name.
+14. Print file extension - passport.jpg, pancard.pdf, resule.word ( jpg, pdf and word ).
+15. Palindrome or not JavaJ - Palindrome, Heelo - not a palindrome
